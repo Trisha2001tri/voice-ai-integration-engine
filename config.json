@@ -1,0 +1,14 @@
+{
+  "loan_inquiry": {
+    "action": "slack"
+  },
+  "support_issue": {
+    "action": "crm"
+  },
+  "complaint": {
+    "action": "crm"
+  },
+  "refund_request": {
+    "action": "crm"
+  }
+}
