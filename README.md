@@ -3,15 +3,12 @@
 
 > Production-grade AI event routing platform that transforms voice-call outputs into actionable workflows across Slack, Zendesk, and enterprise systems.
 
-<p align="center">
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Production-green?style=for-the-badge&logo=fastapi)
 ![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![Architecture](https://img.shields.io/badge/Architecture-Scalable-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-</p>
 
 ---
 
