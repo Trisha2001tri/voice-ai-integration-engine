@@ -225,16 +225,43 @@ That’s where enterprise value exists.
 
 ---
 
-# 🔮 Roadmap
+# 🔮 Future Scope
 
-* PostgreSQL log storage
-* Kafka event queues
-* Docker deployment
-* Kubernetes scaling
-* JWT auth
-* Admin analytics dashboard
-* Multi-tenant architecture
-* SaaS control panel
+### Platform & Scale
+- Event-driven architecture with Kafka / RabbitMQ queues  
+- Containerized deployment using Docker  
+- Kubernetes autoscaling for high-volume workloads  
+- Multi-region failover & high availability setup  
+
+### Data & Observability
+- PostgreSQL / managed database for persistent event logs  
+- Real-time monitoring with Prometheus + Grafana  
+- Centralized alerting for failed integrations & retries  
+- Advanced analytics dashboard for traffic, success rate, SLA metrics  
+
+### Security & Access
+- JWT authentication + role-based access control (RBAC)  
+- API rate limiting & webhook signature verification  
+- Secret vault integrations for enterprise credential management  
+- Audit trails for all routing and admin actions  
+
+### Product Features
+- Multi-tenant SaaS architecture for multiple customers  
+- Self-serve admin control panel for routing rules  
+- No-code workflow builder for integrations  
+- Smart retry policies with exponential backoff  
+
+### Integrations Ecosystem
+- Native connectors for Salesforce, HubSpot, Zoho, Freshdesk  
+- WhatsApp / Email / SMS outbound workflows  
+- CRM sync + bidirectional updates  
+- Marketplace for third-party integrations  
+
+### AI Layer
+- Intent confidence scoring & fallback routing  
+- Auto-priority ticket classification using LLMs  
+- Voice conversation summarization enhancements  
+- Predictive lead scoring for sales teams  
 
 ---
 
